@@ -1,6 +1,6 @@
 # html-mail
 
-HTMLメール用のHTMLを作成するためのgulp環境です。
+HTMLメール用のHTMLソースを作成するためのgulp環境です。
 
 - Sass -> CSSをインライン化
 - EJS -> 圧縮HTML
